@@ -1,0 +1,74 @@
+statement : Now a days the crimes are rapidly increasing , after the crime we find a victim but due to some of the causes in special cases they are missing  the evidence wontedly due to pressure in high profile cases, especially at the time of post mortem and at the time of investigation .Our project is to overcome this and make strong evidence against a victim and also help the investigation team during investigation using AI.
+
+sol1 :In high profile cases At the time of post mortem they entirely change the report , so here by using AI we over come this.
+
+**************Here the entire post mortem was done under the control of AI****************
+
+Our AI has below features:
+
+1.Here our AI will acts as a pathologist, this AI will equipped with human anatomy , physiology , and biochemistry and all the other knowledge of pathologist .
+
+2.Through this whatever the pathologist do the same task can achieve by the our AI , but here everything is stored and recorded. This will prevent the report manipulation.
+
+Functionality of our AI :
+-------------------
+
+External Examination: The path AI first inspects the exterior of the body for any signs of trauma, abnormalities, or clues related to the cause of death by using color sensors etc.,
+
+Internal Examination: It performs an incision to examine internal organs, assessing their condition, size, and any signs of disease or injury using some of the sensors like Ultrasound sensors, MRI sensors etc.,
+
+Tissue Sampling: The pathologist collects tissue samples for further analysis, such as histological examination or toxicology tests to check for drugs or poisons using MRI and spectroscopy technique.
+
+Our Path AI estimates Time of death, injury and trauma analysis , Toxicology testing and all the other testings which perform at the time of post mortem .
+
+during the examination the data is recording continuously into the path AI. After the completion of each examination, that collected data will be stored as immutable record. This can be achieve by using the techniques called Block chain , Cryptographic hashing ,WORM storage .
+
+==================== POST MORTEM REPORT IS CRUCIAL EVIDENCE DURIG INVESTIGATION ======================
+
+----------------------
+AI Interrogation Evaluator :
+----------------------
+Generally , During interrogation in some cases like when the  suspect is high officials often wield considerable power , and they use to resist the interrogation or manipulate the situation .it may leads to fail to grab the information from the suspect and also when the suspect is tricky, he tries to manipulate the interrogator.
+
+sol:
+--
+So here we are going to overcome this by using Eval AI
+
+Features :
+---------
+Speech Analysis: AI can analyze vocal patterns, tone, and pitch. Changes in these parameters may suggest stress or deception.
+
+Text Analysis: By examining the language used in statements, AI can identify inconsistencies, ambiguous phrases, or overly complex language that might indicate dishonesty.
+
+Body Language Detection: In video footage, AI can analyze facial expressions, gestures, and posture to assess congruence with verbal statements.
+
+Sentiment Analysis: AI can evaluate the emotional tone of a suspect's words to see if it aligns with the context of the situation. Discrepancies may indicate deception.
+
+Database Comparison: AI can cross-reference a suspect’s statements with known facts, records, or other testimonies to identify inconsistencies.
+
+Behavioral Patterns: AI can analyze behavioral data from past interactions or interviews to establish a baseline and spot deviations.
+
+Machine Learning Models: By training on large datasets of interviews and outcomes, AI can learn to recognize patterns associated with truthful versus deceptive responses.
+
+Even though having all the above features in our Eval AI , still it fails to analyze the whether the suspect is suspicious or not .
+To over come this we introduce feature called subject analysis
+
+Subject Analysis :
+=================
+Whenever the suspect will give the answer , then our eval AI will detect that answer, whether it is related or suspicious or Doubtful.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
